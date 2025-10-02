@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "Tranh 18",
+    "author": "Nhocconsr",
+    "version": 1,
+    "source": "https://tranh18.com",
+    "regexp": "(www.)?tranh18.com/comic/[0-9a-z-_]+",
+    "description": "Truyện 18 Manhwa",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic",
+    "tag" : "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

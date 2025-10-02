@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "【VIP】Bạch Ngọc Sách",
+    "author": "Nhocconsr",
+    "version": 1,
+    "source": "https://bnsvip.net",
+    "regexp": "(www.)?(bachngocsach.(info|pro|net.vn|io.vn)|bnsvip.(vn|com|com.vn|net))/truyen/[0-9a-z-]+/?",
+    "description": "New vesion! phamgiavang@gmail.com",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

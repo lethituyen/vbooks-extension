@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "Omega Scans [EN]",
+    "author": "Nhocconsr",
+    "version": 1,
+    "source": "https://omegascans.org",
+    "regexp": "(www.)?omegascans.org/series/[0-9a-z-]+/?$",
+    "description": "Chỉ đọc chương Free",
+    "locale": "en_EN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

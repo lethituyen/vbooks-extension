@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "KissLove (Raw)",
+    "author": "Nhocconsr",
+    "version": 4,
+    "source": "https://klz9.com",
+    "regexp": "(www.)?klz9.com/[a-z-]+.html",
+    "description": "Đọc truyện trên trang klz9.com. Nếu bị lỗi extention bạn có thể báo cáo qua email: phamgiavang@gmail.com",
+    "locale": "en_EN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

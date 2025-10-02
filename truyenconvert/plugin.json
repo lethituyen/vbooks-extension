@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "Truyện Convert",
+    "author": "Nhocconsr",
+    "version": 3,
+    "source": "https://truyenconvert.net",
+    "regexp": "(www.)?truyenconvert.net/truyen/[0-9a-z-]+",
+    "description": "V3: fix load chuong",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "page": "page.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

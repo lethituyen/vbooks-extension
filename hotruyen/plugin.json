@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "Hố Truyện",
+    "author": "Nhocconsr",
+    "version": 5,
+    "source": "https://hotruyen1.com",
+    "regexp": "(www.)?hotruyen1.com/truyen/[^/+]+",
+    "description": "Đọc truyện trên trang Hotruyen.com",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

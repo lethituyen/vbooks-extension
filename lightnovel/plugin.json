@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "LightNovel VN",
+    "author": "Nhocconsr",
+    "version": 5,
+    "source": "https://quykiep.com",
+    "regexp": "(www.)?quykiep.com/truyen/?[0-9a-z-]+/?",
+    "description": "LightNovel En",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js"
+  }
+}

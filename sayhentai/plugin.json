@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "Say Hentai",
+    "author": "Nhocconsr",
+    "version": 9,
+    "source": "https://sayhentai.one",
+    "regexp": "(www.)?sayhentai.(.*?)/[^/]+.html$",
+    "description": "Đọc truyện trên trang Say Hentai",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "comic",
+    "tag": "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
