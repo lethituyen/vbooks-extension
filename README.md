@@ -7,7 +7,7 @@ Tải app tại : [Vbook App Download](https://bit.ly/vbookapp)
 
 ## Link extension
 
-https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/plugin.json
+https://raw.githubusercontent.com/lethituyen/vbooks-extension/refs/heads/master/plugin.json
 
 
 ##List
