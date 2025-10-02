@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "ManhuaVN [Free]",
+    "author": "Nhocconsr",
+    "version": 2,
+    "source": "https://manhuavn.top",
+    "regexp": "(www.)?(manhuavn.top|mhvn.truyensieuhay.com)/[0-9a-z-]+(.html)?",
+    "description": "Chỉ đọc được truyện free",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

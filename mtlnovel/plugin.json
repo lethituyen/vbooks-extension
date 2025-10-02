@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "MTL Novel",
+    "author": "Tác giả",
+    "version": 2,
+    "source": "https://www.mtlnovel.com",
+    "regexp": "(www.)mtlnovel.com/[0-9a-z-]+/?$",
+    "description": "Lỗi extention liên hệ email: phamgiavang@gmail.com",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

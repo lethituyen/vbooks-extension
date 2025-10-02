@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Truyện GG",
+    "author": "Nhocconsr",
+    "version": 1,
+    "source": "https://truyengg.com",
+    "regexp": "(www.)?truyengg.com/truyen-tranh/[0-9a-z-]+.html",
+    "description": "Truyen GG",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

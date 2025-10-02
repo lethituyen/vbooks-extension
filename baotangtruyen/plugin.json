@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "Bảo Tàng Truyện",
+    "author": "Nhocconsr",
+    "version": 8,
+    "source": "https://baotangtruyen32.top",
+    "regexp": "https://baotangtruyen32.top/truyen-tranh/[0-9a-z-]+/?$",
+    "description": "Web Đọc Truyện Tranh Online lớn nhất VN ✔",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

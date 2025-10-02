@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "zTruyen",
+    "author": "fusornat",
+    "version": 5,
+    "source": "https://ztruyen.vn",
+    "regexp": "https://ztruyen.vn/truyen/[0-9a-z-]+/?$",
+    "description": "zTruyen.vn",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Manga Read",
+    "author": "Nhocconsr",
+    "version": 2,
+    "source": "https://www.mangaread.org",
+    "regexp": "(www.)?mangaread.org/manga/[0-9a-z-]+/?$",
+    "description": "Đọc truyện trên trang www.mangaread.org",
+    "locale": "en_EN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
